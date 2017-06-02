@@ -1,0 +1,4 @@
+package { gimp:
+  ensure => installed; 
+
+}
